@@ -1,14 +1,14 @@
-#Lab4
+# Lab4
 
-Step 1: Keys pressed=```<ssh cs15lsp23dd@ieng6.ucsd.edu>```, I typed in ```ssh cs15lsp23dd@ieng6.ucsd.edu``` into the terminal to log into ieng6
+Step 4: Keys pressed=```<ssh cs15lsp23dd@ieng6.ucsd.edu>```, I typed in ```ssh cs15lsp23dd@ieng6.ucsd.edu``` into the terminal to log into ieng6
 
 ![Image](Screen Shot 2023-06-07 at 7.13.50 PM.png)
 
-Step 2: Keys pressed=```<git clone https://github.com/aavanir/lab7>```, I typed ```git clone https://github.com/aavanir/lab7``` into the terminal to clone my fork of the repository from my Github account
+Step 5: Keys pressed=```<git clone https://github.com/aavanir/lab7>```, I typed ```git clone https://github.com/aavanir/lab7``` into the terminal to clone my fork of the repository from my Github account
 
 ![Image](Screen Shot 2023-06-07 at 7.18.48 PM.png)
 
-Step 3: Keys pressed=```<cd lab7>, <bash test.sh https://github.com/aavanir/lab7.git>```, I typed ```cd lab7``` to set the current directory to lab7. Then I typed ```bash test.sh https://github.com/aavanir/lab7.git``` into the terminal to run the tests, demonstrating that they fail
+Step 6: Keys pressed=```<cd lab7>, <bash test.sh https://github.com/aavanir/lab7.git>```, I typed ```cd lab7``` to set the current directory to lab7. Then I typed ```bash test.sh https://github.com/aavanir/lab7.git``` into the terminal to run the tests, demonstrating that they fail
 
 ![Image](Screen Shot 2023-06-07 at 7.21.12 PM.png)
   
