@@ -20,7 +20,7 @@ Step 8: Keys pressed=```<up><up><enter>```, The ```<bash test.sh https://github.
 
 ![Image](Screen Shot 2023-06-06 at 8.32.54 PM.png)
 
-Step 9: Keys pressed=```<git add .>```, ```<git commit -m "Add new file">```, and ```git push``` to commit and push
+Step 9: Keys pressed=```<git add .>```, ```<git commit -m "Add new file">```, and ```git push``` to commit and push the resulting change to my Github account
 
 ![Image](Screen Shot 2023-06-07 at 11.07.26 PM.png)
 ![Image](Screen Shot 2023-06-07 at 11.30.03 PM.png)
