@@ -1,4 +1,4 @@
-#Lab 4
+#Lab4
 
 Step 1: Keys pressed=```<ssh cs15lsp23dd@ieng6.ucsd.edu>```, I typed in ```ssh cs15lsp23dd@ieng6.ucsd.edu``` into the terminal to log into ieng6
 
